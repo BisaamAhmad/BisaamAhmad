@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+MERN+%2B+Next.js;Building+real-time+apps+with+WebRTC+%26+Stripe;Learning+AI%2FML+with+Python)](https://syedfahad.engineer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+MERN+%2B+Next.js;Building+real-time+apps+with+WebRTC+%26+Stripe;Learning+AI%2FML+with+Python)](https://bisaam.online)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bisaam.online-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://bisaam.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bisaamahmad-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisaam-ahmad-925093378/)
@@ -29,8 +29,8 @@ I'm a Full Stack Developer based in **Lahore, Pakistan**, currently pursuing a *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BisaamAhmad&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BisaamAhmad&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" width="100%" />
